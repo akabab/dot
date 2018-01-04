@@ -1,0 +1,9 @@
+[
+    { "keys": ["shift+ctrl+a"], "command": "alignment" },
+
+    // IncAndDecrement.py
+    { "keys": ["ctrl+alt+up"], "command": "increment" },
+    { "keys": ["ctrl+alt+down"], "command": "decrement" },
+
+    { "keys": ["alt+shift+i"], "command": "reindent", "args": {"single_line": false} }
+]

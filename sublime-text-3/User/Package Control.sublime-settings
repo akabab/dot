@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ayu",
+		"Babel",
+		"Colorsublime",
+		"EditorConfig",
+		"Expand Selection to Quotes",
+		"Generic Config",
+		"HTML-CSS-JS Prettify",
+		"Increment Selection",
+		"Incrementor",
+		"LESS",
+		"MarkdownLight",
+		"Materialize",
+		"Minify",
+		"Monokai - Spacegray",
+		"NASM x86 Assembly",
+		"Package Control",
+		"Pretty JSON",
+		"RAML Syntax Highlighter",
+		"Random Everything",
+		"Sass",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-standard",
+		"Swift",
+		"SwiftKitten",
+		"Swig",
+		"Theme - Spacegray"
+	]
+}
